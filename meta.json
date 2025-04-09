@@ -68,5 +68,5 @@
   { "type": "Wine", "verName": "9.16-custom", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Wine_wcp/wine-9.16-custom.wcp" },
   { "type": "Wine", "verName": "9.19-custom", "verCode": 1, "remoteUrl": "https://github.com/sandstranger/wine-custom/releases/download/wine-9.19/wine-9.19.wcp" },
   { "type": "Wine", "verName": "9.20-custom", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Wine_wcp/wine-9.20.by.sandstranger.wcp" },
-  { "type": "Wine", "verName": "9.21-custom", "verCode": 1, "remoteUrl": "remoteUrl": "https://hub.myxuebi.top/afeimod/winlator-glibc/releases/download/contents/wine-9.21.wcp" },
+  { "type": "Wine", "verName": "9.21-custom", "verCode": 1, "remoteUrl": "https://hub.myxuebi.top/afeimod/winlator-glibc/releases/download/contents/wine-9.21.wcp" },
 ]
