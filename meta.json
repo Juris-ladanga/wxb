@@ -53,7 +53,7 @@
   { "type": "Turnip", "verName": "24.0.9", "verCode": 1, "remoteUrl": "https://hub.myxuebi.top/afeimod/winlator-glibc/releases/download/contents/turnip-24.0.9.wcp" },
   { "type": "Turnip", "verName": "24.3.0-r10", "verCode": 10, "remoteUrl": "https://hub.myxuebi.top/afeimod/winlator-glibc/releases/download/contents/turnip-24.3.0-R10.wcp" },
   { "type": "Turnip", "verName": "24.3.0-d264c66f", "verCode": 1, "remoteUrl": "https://github.com/longjunyu2/winlator/releases/download/v7.1.2/turnip-24.3.0-d264c66f.wcp" },
-  { "type": "Turnip", "verName": "25.0.0-R5", "verCode": 5, "https://hub.myxuebi.top/K11MCH1/WinlatorTurnipDrivers/releases/download/winlator_v25.0_r5/turnip-v25.0.0-R5.wcp" },
+  { "type": "Turnip", "verName": "25.0.0-R5", "verCode": 5, "remoteUrl": "https://hub.myxuebi.top/K11MCH1/WinlatorTurnipDrivers/releases/download/winlator_v25.0_r5/turnip-v25.0.0-R5.wcp" },
   { "type": "Turnip", "verName": "25.0.0-R8", "verCode": 8, "remoteUrl": "https://github.com/K11MCH1/WinlatorTurnipDrivers/releases/download/winlator_v25.0_r8/turnip-v25.0.0-R8.wcp" },
   { "type": "Turnip", "verName": "25.0.0-T2", "verCode": 8, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Graphics_driver/turnip-v25.0.0-T2-Mr.purple.wcp" },
   { "type": "Turnip", "verName": "25.1.0-R1", "verCode": 1, "remoteUrl": "https://github.com/K11MCH1/WinlatorTurnipDrivers/releases/download/winlator_v25.1_r1/turnip-v25.1.0-R1.wcp" },
