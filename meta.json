@@ -64,7 +64,7 @@
   { "type": "VirGl", "verName": "23.1.9.w8x64", "verCode": 0, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Graphics_driver/virgl-23.1.9.w8x64.wcp" },
   { "type": "Wine", "verName": "9.2-custom", "verCode": 2, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Wine_wcp/wine-9.2-custom.old.wcp" },
   { "type": "Wine", "verName": "9.2-winlator8", "verCode": 2, "remoteUrl": "https://www.dropbox.com/scl/fi/meqyxcyi13qormp51cxhw/wine_9.2_winlator8.wcp?rlkey=k8qj4exga9v028d6q5ygras0s&st=xblql3zo&dl=1" },
-    { "type": "Wine", "verName": "wine-9.2-custom-wow64-wine64", "verCode": 2, "remoteUrl": "https://www.dropbox.com/scl/fi/1z0ot4eun6u47syyxeigk/wine-9.2-custom-wow64-wine64.wcp?rlkey=lduh1ezqdaz5opfwnhm83efsd&st=qj08g8aa&dl=1" },
+  { "type": "Wine", "verName": "9.2-custom-wow64-wine64", "verCode": 2, "remoteUrl": "https://www.dropbox.com/scl/fi/1z0ot4eun6u47syyxeigk/wine-9.2-custom-wow64-wine64.wcp?rlkey=lduh1ezqdaz5opfwnhm83efsd&st=qj08g8aa&dl=1" },
   { "type": "Wine", "verName": "9.13-custom", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Wine_wcp/wine-9.13-custom.wcp" },
   { "type": "Wine", "verName": "9.15-custom", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Wine_wcp/wine-9.15-custom.wcp" },
   { "type": "Wine", "verName": "9.16-custom", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Wine_wcp/wine-9.16-custom.wcp" },
