@@ -68,6 +68,7 @@
   { "type": "Wine", "verName": "9.2-wow64-wine64", "verCode": 2, "remoteUrl": "https://www.dropbox.com/scl/fi/1z0ot4eun6u47syyxeigk/wine-9.2-custom-wow64-wine64.wcp?rlkey=lduh1ezqdaz5opfwnhm83efsd&st=qj08g8aa&dl=1" },
   { "type": "Wine", "verName": "9.13-custom", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Wine_wcp/wine-9.13-custom.wcp" },
   { "type": "Wine", "verName": "9.15-custom", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Wine_wcp/wine-9.15-custom.wcp" },
+  { "type": "Wine", "verName": "9.16-wow64-wine64", "verCode": 1, "remoteUrl": "https://github.com/alexvorxx/winlator/releases/download/v7.1.5-mod4/wine-9.16-custom-wow64+wine64.wcp" },
   { "type": "Wine", "verName": "9.16-custom", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Wine_wcp/wine-9.16-custom.wcp" },
   { "type": "Wine", "verName": "9.19-custom", "verCode": 1, "remoteUrl": "https://github.com/sandstranger/wine-custom/releases/download/wine-9.19/wine-9.19.wcp" },
   { "type": "Wine", "verName": "9.20-custom", "verCode": 1, "remoteUrl": "https://github.com/ajay9634/Ajay-prefix/releases/download/Wine_wcp/wine-9.20.by.sandstranger.wcp" },
